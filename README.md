@@ -1,4 +1,3 @@
-
 # Smart Campus Placement Portal
 
 A full-stack web application for managing campus placements, connecting students, recruiters, and college administrators.
